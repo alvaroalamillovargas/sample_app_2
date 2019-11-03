@@ -13,6 +13,8 @@ is available jointly under the MIT License and the Beerware License. See
 
 ## Getting started
 
+Inside the website, log in with id: example@railstutorial.org password: foobar to fully test every function inside the IDE.
+
 To get started with the app, clone the repo and then install the needed gems:
 
 ```
