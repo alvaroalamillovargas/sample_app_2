@@ -13,7 +13,8 @@ is available jointly under the MIT License and the Beerware License. See
 
 ## Getting started
 
-Inside the website, log in with id: example@railstutorial.org password: foobar to fully test every function inside the IDE.
+Go to https://obscure-brushlands-07719.herokuapp.com/ in order to check the web site live.
+
 
 To get started with the app, clone the repo and then install the needed gems:
 
